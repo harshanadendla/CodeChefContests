@@ -1,5 +1,5 @@
 //ac in 1 go!
-//nee bondaa......emo....if  is missing in the array...i am actually accessing a[-1]
+//nee bondaa......emo....if 1 is missing in the array...i am actually accessing a[-1]
 //i wondered.....that is not a seg fault....\__/
 //thu yadava....fluke lo kalisesindi
 //so added that if (...)....now satisfied
